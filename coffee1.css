@@ -1,0 +1,707 @@
+body{
+   margin: 0;
+   overflow-x: hidden;
+}
+#header{
+    width: 1366;
+    height: 60;
+    background-color: #CD7F32;
+}
+#c{
+    font-size: 60;
+    position: relative;
+    bottom: 10;
+    left: 40;
+}
+#togo{
+    width: 50;
+    height: 50;
+    border-radius: 50%;
+    position: relative;
+    left: 80;
+    bottom: 75;
+}
+#fe{
+    font-size: 60;
+    position: relative;
+    bottom: 140;
+    left: 130;
+}
+.menu{
+    text-decoration: none;
+    position: relative;
+    left: 370;
+    bottom: 203;
+    color: white;
+    font-size: 30;
+    padding: 10;
+}
+.menu:hover{
+    color: #000000;
+    background-color: #80461B;
+}
+#bgimg{
+    background: url(https://cafesorus.es/wp-content/uploads/coffee-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: center;
+    height: 91%;
+}
+#start{
+    color: white;
+    font-size: 45;
+    position: relative;
+    top: 80;
+    left: 100;
+}
+#fc{
+    color: white;
+    font-size: 55;
+    position: relative;
+    top: 80;
+    left: 100;
+}
+#pre1{
+    color: white;
+    font-size: 18;
+    position: relative;
+    top: 100;
+    left: 100;
+}
+#b1{
+    width: 120;
+    height:50;
+    background-color: #80461B;
+    font-size: 18;
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    top: 100;
+    left: 100;
+}
+#div1{
+    background-color: ;
+    height: 690;
+    position: relative;
+    top: 100;
+}
+#div2{
+    background-color: red;
+    width: 550;
+    height: 605;
+    position: relative;
+    border-left: 5px solid #80461B;
+    border-top: 5px solid #80461B;
+}
+#cof2{
+    width: 550;
+    height: 600;
+    border-bottom: 5px solid #80461B;
+
+}
+#div3{
+    background-color: #000000;
+    width: 550;
+    height: 600;
+    position: relative;
+    left: -28;
+    border-right: 5px solid #80461B;
+    border-top: 5px solid #80461B;
+}
+#abt{
+    color: white;
+    position: relative;
+    left: 200;
+}
+#cof3{
+    width: 150;
+    height: 150;
+    border-radius: 50%;
+    position: relative;
+    top: 10;
+}
+#pre2{
+    color: white;
+    position: relative;
+    left: 180;
+    bottom: 110;
+}
+#cof4{
+    width: 150;
+    height: 150;
+    border-radius: 50%;
+    position: relative;
+    bottom: 35;
+}
+#pre3{
+    color: white;
+    position: relative;
+    left: 180;
+    bottom: 140;
+}
+#cof5{
+    width: 550;
+    height: 150;
+    position: relative;
+    left: -12;
+    bottom: 85;
+    border-right: 5px solid #80461B;
+    border-bottom: 5px solid #80461B;
+}
+#div4{
+    background-color: #000000;
+    height: 715;
+    position: relative;
+    top: 120;
+    border: 5px solid #80461B;
+}
+#div5{
+    background-color: #000000;
+    width: 350;
+    height: 643;
+    position: relative;
+    left:15;
+    top: 30;
+}
+#cof6{
+    width: 350;
+    height: 643;
+    border: 5px solid white;
+}
+#div6{
+    background-color: #80461B;
+    width: 728;
+    height: 643;
+    position: relative;
+    top: 30;
+    left: -25;
+}
+#cof7{
+    width: 705;
+    height: 200;
+    border: 5px solid white;
+}
+#mu{
+    color: white;
+    position: relative;
+    left: 300;
+    border-bottom-style: ridge;
+    width: 110;
+    border-color: #e6a157;
+}
+#hi{
+    color: white;
+    position: relative;
+    left: 370;
+}
+#latte{
+    color: white;
+    font-size: 22;
+    position: relative;
+    left: 200;
+    border-bottom-style: dashed;
+    width: 290;
+}
+#mocha{
+    color: white;
+    font-size: 22;
+    position: relative;
+    left: 200;
+    top: 20;
+    border-bottom-style: dashed;
+    width: 290;
+}
+#espresso{
+    color: white;
+    font-size: 22;
+    position: relative;
+    left: 200;
+    top: 40;
+    border-bottom-style: dashed;
+    width: 290;
+}
+#cold{
+    color: white;
+    font-size: 22;
+    position: relative;
+    left: 200;
+    top: 60;
+    border-bottom-style: dashed;
+    width: 290;
+}
+#americano{
+    color: white;
+    font-size: 22;
+    position: relative;
+    left: 200;
+    top: 80;
+    border-bottom-style: dashed;
+    width: 290;
+}
+#div7{
+    background-color: #000000;
+    height: 1050;
+    width: 900;
+    position: relative;
+    top: 230;
+    border: 5px solid #80461B;
+    border-radius: 25px;
+}
+#gallery{
+    color: #ffffff;
+    position: relative;
+    left: 370;
+    position: relative;
+    top: 8;
+}
+#p1{
+    color: #CD7F32;
+    border-bottom: double;
+    position: relative;
+    top: 13;
+    left: -12;
+    width: 890;
+}
+#div8{
+    background-color: #000000;
+    height: 900;
+    width: 225;
+    position: relative;
+    top: 30;
+    left: 60;
+}
+#div9{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 10;
+    left: 13;
+}
+#div91{
+    width: 150;
+    height: 150;
+    position: relative;
+    left: 25;
+}
+#div91:hover{
+    width: 200;
+    height: 200;
+    position: relative;
+    left: -6;
+}
+#latte1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 55;
+}
+#div10{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 30;
+    left: 13;
+}
+#cap1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 5;
+}
+#div11{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 50;
+    left: 13;
+}
+#esp1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 30;
+}
+#div011{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 70;
+    left: 13;
+}
+#fl1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 15;
+}
+#div12{
+    background-color: #000000;
+    height: 900;
+    width: 225;
+    position: relative;
+    top: 30;
+    left: 30;
+}
+#div13{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 10;
+    left: 13;
+}
+#dop1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 45;
+}
+#div14{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 30;
+    left: 13;
+}
+#red1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 45;
+}
+#div15{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 50;
+    left: 13;
+}
+#ado1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 30;
+}
+#div015{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 70;
+    left: 13;
+}
+#aff1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 25;
+}
+#div16{
+    background-color: #000000;
+    height: 900;
+    width: 225;
+    position: relative;
+    top: 30;  
+    left: -10;
+}
+#div17{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 10;
+    left: 13;
+}
+#lungo1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 50;
+}
+#div18{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 30;
+    left: 13;
+}
+#machh1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 12;
+}
+#div19{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 50;
+    left: 13;
+}
+#mocha1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 40;
+}
+#div019{
+    width: 200;
+    height: 200;
+    background-color: #ffffff;
+    position: relative;
+    top: 70;
+    left: 13;
+}
+#irish1{
+    color: #000000;
+    font-size: 30;
+    position: relative;
+    left: 60;
+}
+#p2{
+    color: #CD7F32;
+    border-bottom: double;
+    position: relative;
+    top: 20;
+    left: -12;
+    width: 890;
+}
+#div20{
+    background-color: #000000;
+    height: 630;
+    position: relative;
+    top: 350;
+    border: 5px solid #80461B;
+}
+#brand{
+    color: #ffffff;
+    position: relative;
+    left: 500;
+    top: 20;
+}
+#div21{
+    background-color: #000000;
+    width: 250;
+    height: 500;
+    position: relative;
+    top: 30;
+}
+#div22{
+    background-color: #ffffff;
+    width: 200;
+    height: 200;
+    position: relative;
+    left: 23;
+    top:20;
+    border: 3px solid #CD7F32;
+}
+#bru{
+    width: 150;
+    height: 150;
+    position: relative;
+    left: 20;
+}
+#p3{
+    border-bottom: 3px solid #CD7F32;
+}
+#bru1{
+    color: green;
+    font-size: 35;
+    position: relative;
+    bottom: 18;
+    left: 60;
+}
+#div23{
+    background-color: #ffffff;
+    width: 200;
+    height: 200;
+    position: relative;
+    left: 23;
+    top:80;
+    border: 3px solid #CD7F32;
+}
+#david{
+    color: #C80815;
+    font-size: 35;
+    position: relative;
+    bottom: 18;
+    left: 15;
+}
+#div24{
+    background-color: #000000;
+    width: 250;
+    height: 500;
+    position: relative;
+    top: 30;
+}
+#div25{
+    background-color: #ffffff;
+    width: 200;
+    height: 200;
+    position: relative;
+    left: 23;
+    top:20;
+    border: 3px solid #CD7F32;
+}
+#rage{
+    color: #800080;
+    font-size: 35;
+    position: relative;
+    bottom: 18;
+    left: 55;
+}
+#div26{
+    background-color: #ffffff;
+    width: 200;
+    height: 200;
+    position: relative;
+    left: 23;
+    top:80;
+    border: 3px solid #CD7F32;
+}
+#sleep{
+    color: #4B0082;
+    font-size: 35;
+    position: relative;
+    bottom: 18;
+    left: 6;
+}
+#div27{
+    background-color: #000000;
+    width: 250;
+    height: 500;
+    position: relative;
+    top: 30;
+}
+#div28{
+    background-color: #ffffff;
+    width: 200;
+    height: 200;
+    position: relative;
+    left: 23;
+    top:20;
+    border: 3px solid #CD7F32;
+}
+#nescafe{
+    color: #F40009;
+    font-size: 35;
+    position: relative;
+    bottom: 18;
+    left: 25;
+}
+#div29{
+    background-color: #ffffff;
+    width: 200;
+    height: 200;
+    position: relative;
+    left: 23;
+    top:80;
+    border: 3px solid #CD7F32;
+}
+#bar{
+    color: #800020;
+    font-size: 35;
+    position: relative;
+    bottom: 18;
+    left: 11;
+}
+#div30{
+    background-color: #000000;
+    width: 250;
+    height: 500;
+    position: relative;
+    top: 30;
+    left: 10;
+}
+#div31{
+    background-color: #ffffff;
+    width: 200;
+    height: 200;
+    position: relative;
+    left: 23;
+    top:20;
+    border: 3px solid #CD7F32;
+}
+#bri{
+    color: #E25822;
+    font-size: 35;
+    position: relative;
+    bottom: 18;
+    left: 30;
+}
+#div32{
+    background-color: #ffffff;
+    width: 200;
+    height: 200;
+    position: relative;
+    left: 23;
+    top:80;
+    border: 3px solid #CD7F32;
+}
+#xtra{
+    color: #8B0000;
+    font-size: 35;
+    position: relative;
+    bottom: 18;
+    left: 55;
+}
+#div33{
+    background-color: #CD7F32;
+    width: 1366;
+    height: 300;
+    position: relative;
+    top: 470;
+}
+#add{
+    position: relative;
+    top: 100;
+}
+#sathy{
+    color: white;
+    position: relative;
+    top: 100;
+}
+#email{
+    position: relative;
+    top: 100;
+}
+#ftr{
+    width: 250;
+    height: 250;
+    border-radius: 50%;
+    position: relative;
+    top: 25;
+    border: 5px solid white;
+}
+#social{
+    color: #80461B;
+    background-color: #000000;
+    border-radius: 50%;
+    font-size: 40;
+    position: relative;
+    left: 350;
+}
+#social2{
+    color: #80461B;
+    background-color: #000000;
+    border-radius: 50%;
+    font-size: 40;
+    position: relative;
+    left: 370;
+}
+#social3{
+    color: #80461B;
+    background-color: #000000;
+    border-radius: 50%;
+    font-size: 40;
+    position: relative;
+    left: 390;
+}
